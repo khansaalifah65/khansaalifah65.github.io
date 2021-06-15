@@ -1,0 +1,29 @@
+/* CSS Document */
+body{
+		background-color: pink
+}
+h1{
+		color: tomato;
+		font-size: 40px;
+		text-align: center;
+		border-style: double;
+		border-width: thick;
+}
+h3{
+		color: slateblue;
+		font-size: 25PX;
+		text-align: center;
+		border-style: solid;
+		border-width: 1px;
+}
+		table{	color: purple;
+}
+table, th, td{
+  		border: 1px solid orange;
+}
+p.one{
+		color: purple;
+		font-size: 18px;
+		border-style: dotted;
+		border-width: 5px;
+}
